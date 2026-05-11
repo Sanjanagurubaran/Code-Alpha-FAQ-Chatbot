@@ -148,7 +148,7 @@ Example:
 
 # 👩‍💻 Author
 
-**Rajasubasri**
+**Sanjana G**
 
 * Web Developer
 * UI/UX Enthusiast
