@@ -134,18 +134,6 @@ What is CSS?,CSS styles web pages.
 
 ---
 
-# 📸 Screenshots
-
-Add your project screenshots here.
-
-Example:
-
-```markdown
-![Chatbot UI](screenshot.png)
-```
-
----
-
 # 👩‍💻 Author
 
 **Sanjana G**
