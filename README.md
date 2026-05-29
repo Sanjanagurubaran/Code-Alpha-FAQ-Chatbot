@@ -4,6 +4,7 @@ An AI-powered FAQ Chatbot built using **Flask, HTML, CSS, JavaScript, and Machin
 The chatbot answers user queries intelligently using **TF-IDF Vectorization** and **Cosine Similarity**.
 
 ---
+<img width="1389" height="805" alt="image" src="https://github.com/user-attachments/assets/638cf07a-93ca-44b2-a5f0-00c5a0e6f625" />
 
 ## 🚀 Features
 
